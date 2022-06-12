@@ -1,0 +1,9 @@
+# blacklist all
+*
+!*/
+
+# include whitelist
+!/.github/**
+!/.gitignore
+!/CODE_OF_CONDUCT.md
+!/CONTRIBUTING.md
