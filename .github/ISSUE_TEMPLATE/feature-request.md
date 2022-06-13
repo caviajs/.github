@@ -1,6 +1,5 @@
 ---
 name: "\U0001F680 Feature request"
-about: "Feature request"
 labels: "enhancement"
 ---
 
