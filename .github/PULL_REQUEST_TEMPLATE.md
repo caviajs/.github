@@ -1,4 +1,5 @@
-## 🌷  Pull request
+## 🌷 Pull request
+
 <!-- 📖  https://github.com/caviajs/.github/blob/master/CONTRIBUTING.md -->
 
 **What is the current behavior?**
@@ -8,6 +9,7 @@
 <!-- ✍️  Please describe the new behavior... -->
 
 **Does this pull request introduce a breaking change?** (check one)
+
 - [ ] Yes
 - [ ] No
 
