@@ -1,4 +1,4 @@
-Cavia is an HTTP-focused framework with a microservices approach.
+Cavia is a fully-featured backend framework for Node.js.
 
 ## Packages
 
@@ -15,8 +15,4 @@ Cavia is an HTTP-focused framework with a microservices approach.
 
 * [Twitter](https://twitter.com/caviajs)
 
----
-
-Built with ❤︎ by <a href="https://partyka.dev">Paweł Partyka</a>
-
----
+<sub>Built with ❤︎ by <a href="https://partyka.dev">Paweł Partyka</a></sub>
