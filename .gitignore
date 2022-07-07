@@ -4,6 +4,7 @@
 
 # include whitelist
 !/.github/**
+!/profile/**
 !/.gitignore
 !/CODE_OF_CONDUCT.md
 !/CONTRIBUTING.md
