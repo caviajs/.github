@@ -1,19 +1,18 @@
 Cavia is an HTTP-focused framework with a microservices approach.
 
-## Features
+## Packages
 
-* [Env](https://github.com/caviajs/env) to validate environment variables,
-* [HTTP client](https://github.com/caviajs/http-client) with built-in **serialization** and **decompression**,
-* [HTTP contract](https://github.com/caviajs/http-contract) to **conversion**, **validation** and **generation**,
-* [HTTP cookie](https://github.com/caviajs/http-cookie) to managing cookies,
-* [HTTP cors](https://github.com/caviajs/http-cors) to managing CORS headers,
-* [HTTP exception](https://github.com/caviajs/http-exception) to standardize error responses,
-* [HTTP router](https://github.com/caviajs/http-router) with support for **routing**, **interceptors** and **exception handling**,
-* [Logger](https://github.com/caviajs/logger) with sensitivity management,
+* [env](https://github.com/caviajs/env) to validate environment variables,
+* [http-client](https://github.com/caviajs/http-client) with built-in **serialization** and **decompression**,
+* [http-contract](https://github.com/caviajs/http-contract) to **conversion**, **validation** and **generation**,
+* [http-cookie](https://github.com/caviajs/http-cookie) to managing cookies,
+* [http-cors](https://github.com/caviajs/http-cors) to managing CORS headers,
+* [http-exception](https://github.com/caviajs/http-exception) to standardize error responses,
+* [http-router](https://github.com/caviajs/http-router) with support for **routing**, **interceptors** and **exception handling**,
+* [logger](https://github.com/caviajs/logger) with sensitivity management,
 
 ## Stay in touch
 
-* Discord
 * [Twitter](https://twitter.com/caviajs)
 
 ---
