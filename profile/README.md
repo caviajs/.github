@@ -1,7 +1,6 @@
 Cavia is a fully-featured backend framework for Node.js.
 
-> **Warning**
-> **not ready for production**
+> **Warning** - **not ready for production**
 
 ## Packages
 
