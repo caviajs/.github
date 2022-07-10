@@ -2,10 +2,6 @@ Cavia is a fully-featured backend framework for Node.js.
 
 > **Warning** - **not ready for production**
 
-## Content
-
-* [Newsletter](http://news.caviajs.com/)
-
 ## Packages
 
 * [env](https://github.com/caviajs/env) to validate environment variables,
@@ -19,6 +15,7 @@ Cavia is a fully-featured backend framework for Node.js.
 
 ## Stay in touch
 
+* [Newsletter](http://news.caviajs.com/)
 * [Twitter](https://twitter.com/caviajs)
 
 <div align="center">
