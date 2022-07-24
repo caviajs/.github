@@ -16,6 +16,7 @@ Cavia is a fully-featured backend framework for Node.js.
 ## Stay in touch
 
 * [Newsletter](http://news.caviajs.com/)
+* [Roadmap](https://height.app/04hr2zytLz/general)
 * [Twitter](https://twitter.com/caviajs)
 
 <div align="center">
